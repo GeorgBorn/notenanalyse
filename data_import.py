@@ -1,3 +1,5 @@
+"""Sammlung aller Funktionen, die für den Datenimport aus den Exceltabellen notwendig sind."""
+
 import openpyxl
 import re
 
